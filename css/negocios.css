@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: solid red 1px;
+}
+
+.header{
+    display: flex;
+    height: 50px;
+    align-items: center;
+    padding-left: 20px;
+    font-size: 30px;
+}
+
+.publicidad1{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.d-publicidad1{
+    width: 80%;
+    height: 70px;
+    margin: 15px 0;
+}
+
+.municol{
+    padding-left: 20px ;
+    font-size: 25px;
+    
+}
